@@ -6,3 +6,7 @@
  tsc ./test/sumCal.test.ts
 
 npx jest  
+
+
+
+Note: Please ignore sumCal.ts at root level
